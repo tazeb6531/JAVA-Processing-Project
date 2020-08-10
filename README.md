@@ -1,2 +1,2 @@
-# JAVA-Processing-Project
+# JAVA/Processing-Project
 Java project 
